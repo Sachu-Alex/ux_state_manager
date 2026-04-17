@@ -1,0 +1,16 @@
+name: ux_state_manager_example
+description: Example app for ux_state_manager package.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ux_state_manager:
+    path: ../
+
+flutter:
+  uses-material-design: true
