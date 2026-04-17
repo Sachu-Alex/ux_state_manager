@@ -1,3 +1,7 @@
+## 0.1.3
+
+* Added unit tests for all public API elements
+
 ## 0.1.2
 
 * Added full dartdoc comments to all public API elements
