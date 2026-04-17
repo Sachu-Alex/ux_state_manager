@@ -2,9 +2,9 @@
 name: ux_state_manager
 description: A lightweight Flutter package for handling async UI states — loading, error, empty, and success — with minimal boilerplate.
 version: 0.1.2
-homepage: https://github.com/YOUR_USERNAME/ux_state_manager
-repository: https://github.com/YOUR_USERNAME/ux_state_manager
-issue_tracker: https://github.com/YOUR_USERNAME/ux_state_manager/issues
+homepage: https://github.com/Sachu-Alex/ux_state_manager
+repository: https://github.com/Sachu-Alex/ux_state_manager
+issue_tracker: https://github.com/Sachu-Alex/ux_state_manager/issues
 
 # Dart & Flutter SDK constraints
 environment:
